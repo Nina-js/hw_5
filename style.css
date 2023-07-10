@@ -1,0 +1,33 @@
+body {
+  padding: 20px;
+  background-color: white;
+}
+
+.skeleton {
+  background-color: #cecece;
+  height: 30px;
+  width: 100%;
+}
+
+.bg__red {
+  background-color: rgb(199, 44, 44);
+  height: 40px;
+}
+
+.bg__green {
+  background-color: #247766;
+  height: 40px;
+}
+
+.post {
+  margin-top: 50px;
+}
+
+.img {
+  height: 200px;
+}
+
+.title {
+  background-color: #d4c94b;
+  height: 40px;
+}
